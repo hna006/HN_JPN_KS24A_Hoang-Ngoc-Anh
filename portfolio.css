@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    display: flex;
+    justify-content: end;
+}
+.text{
+    margin-right:500px;
+}
+.tools{
+   
+}
+.none{
+    text-decoration: none;
+    color: rgb(173, 173, 173) ;
+}
+.button1{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 2px;
+    padding: 5px;
+}
+.text1{
+    color: rgb(148, 146, 146);
+}
+.main1{
+    display: flex;
+    padding: 50px;
+    margin: 10px;
+    line-height: 2;
+}
+.skills{
+    text-align: center;
+    color: rgb(138, 134, 134);
+}
+.button2{
+    background-color: rgb(192, 188, 188);
+    border-color: aliceblue;
+    border-radius: 20px;
+    padding: 2px;
+    margin: 10px;
+}
+.fa-solid fa-location-dot{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer{
+    padding: 20px;
+    text-align: center;
+}
+.none2{
+    text-decoration: none;
+    color: black;
+}
+.part3{
+    padding: 40px;
+    display: flex;
+    justify-content: end;
+    margin: 10px;
+}
+.part4{
+    padding: 40px;
+    display: flex;
+    justify-content: end;
+    margin: 10px;
+}
+.cmt{
+    text-align: center;
+    color: rgb(138, 134, 134);
+}
+
